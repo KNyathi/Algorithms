@@ -1,0 +1,9 @@
+def square():
+    data = [1, 2, 3]
+    if True:
+        result = [item * 2 for item in data]
+    else:
+        result = [
+    return result
+
+print(square())

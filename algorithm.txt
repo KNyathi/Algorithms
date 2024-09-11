@@ -1,0 +1,8 @@
+def math():
+    if (True:
+        result = (1 + 2) * 3
+        print(result)
+    else:
+        print("Condition not met")
+
+math()
