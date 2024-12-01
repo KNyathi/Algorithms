@@ -1,0 +1,3 @@
+Day,Night Shift,8-Hour Day Shift,12-Hour Day Shift,Lunch Breaks,Breaks
+Monday (Week 1),12hr_Driver_1 - night shift (18:00 to 6:00),8hr_Driver_1 - day shift (6:00 to 14:00),12hr_Day_Driver_1 - day shift (6:00 to 18:00),12hr_Day_Driver_1 - lunch break (13:00 to 14:00),8hr_Driver_1 - break from 08:00 to 08:15
+Tuesday (Week 1),12hr_Driver_2 - night shift (18:00 to 6:00),8hr_Driver_3 - day shift (10:00 to 18:00),12hr_Day_Driver_2 - day shift (6:00 to 18:00),8hr_Driver_2 - lunch break (12:00 to 13:00),8hr_Driver_3 - break from 10:00 to 10:15
